@@ -1,7 +1,6 @@
 ### Hi there 👋, my name is Saleh Alaoudi
 #### iOS DEVELOPER
 
-<a href="url"><img src="https://imgur.com/a/dzGAyWE" align="left" height="500" width="1000" ></a>
 organized, collaborative, and highly skilled iOS developer with 5+ years of  experience. Eager to start innovating new features and delight users and customers.
 
 Skills: SWIFT | SWIFTUI | XCODE | GIT | GITHUB | iOS SDKs | 
