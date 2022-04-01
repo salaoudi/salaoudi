@@ -6,11 +6,9 @@
 ### <div align="center">I'm Saleh Alaoudi | iOS Developer </div>  
   
 
-- 🔭 I’m currently working on building my own social networking company.  
-  
-
-- 🌱 I’m currently learning manage my time.  
-  
+Organized, collaborative, and highly skilled iOS developer with 5+ years of  
+experience. Eager to start innovating new features, delight users,
+and solve real world problems.
 
   
   
