@@ -1,11 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
-  
-
-</td><td valign="top" width="40%">
-Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=salaoudi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
- 
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" /> 
 </div>  
   
 
@@ -18,19 +12,9 @@ and solve real world problems.
 </div>
 
   
-  
+ 
+**SCROLL DOWN TO SEE MY PROJECTS CODE AND SCREENSHOTS ** 
 
-  
-  
-
-
-
-#### SCROLL DOWN TO SEE MY PROJECTS CODE AND SCREENSHOTS  
-
-
-</td></tr></table>  
-
-<br/>  
 
 
 ## Connect with me  
