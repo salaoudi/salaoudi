@@ -1,5 +1,11 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+  
+
+</td><td valign="top" width="40%">
+Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=salaoudi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+ 
 </div>  
   
 
@@ -21,10 +27,6 @@ and solve real world problems.
 
 #### SCROLL DOWN TO SEE MY PROJECTS CODE AND SCREENSHOTS  
 
-
-</td><td valign="top" width="40%">
-Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=salaoudi&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 </td></tr></table>  
 
