@@ -17,28 +17,9 @@ and solve real world problems.
   
   
 
-<br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### SKILLS  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="75" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### MORE SKILLS  
-#### SWIFTUI | MVVM | OOP | COREDATA | XCODE | UI/UX DESIGN   
+#### SCROLL DOWN TO SEE MY PROJECTS CODE AND SCREENSHOTS  
 
 
 </td><td valign="top" width="40%">
@@ -57,4 +38,4 @@ Github Stats
 </a>  
 </div>  
 EMAIL ME: salaoudi@outlook.com
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
