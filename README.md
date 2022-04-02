@@ -12,9 +12,9 @@ and solve real world problems.
 </div>
 
   
- 
+ <div align="center">
 **SCROLL DOWN TO SEE MY PROJECTS CODE AND SCREENSHOTS ** 
-
+</div>
 
 
 ## Connect with me  
@@ -23,5 +23,8 @@ and solve real world problems.
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 </div>  
-EMAIL ME: salaoudi@outlook.com
+ <div align="center">
+  EMAIL ME: salaoudi@outlook.com
+</div>
+
 
