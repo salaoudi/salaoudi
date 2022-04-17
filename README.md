@@ -7,13 +7,13 @@
 
   
 
- <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 90%" /> 
+ <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> 
  
  
      
     
      
-  <h1>I'm Saleh Alaoudi | iOS Developer</h1>  
+  <h1 align="center">I'm Saleh Alaoudi | iOS Developer</h1>  
        
    
 Organized, collaborative, and highly skilled iOS developer with 5+ years of  
