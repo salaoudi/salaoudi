@@ -8,7 +8,7 @@
   <tr>
      <div align="center">  
        <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" /> 
-      <div>
+      </div>
     
         <div align="center"> <h1>I'm Saleh Alaoudi | iOS Developer</h1>  <div>
     <div align="left">
