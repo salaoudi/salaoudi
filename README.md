@@ -4,15 +4,17 @@
   
 
 
-<table style="width:100%">
-  <tr>
+
+  
      <div align="center">  
        <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" /> 
       </div>
     
-        <div align="center"> <h1>I'm Saleh Alaoudi | iOS Developer</h1>  </div>
+        <div align="center"> 
+          <h1>I'm Saleh Alaoudi | iOS Developer</h1>  
+        </div>
    
-      <tr>
+     
        <div align="center">  Organized, collaborative, and highly skilled iOS developer with 5+ years of  
 experience. Eager to start innovating new features, delight users,
 and solve real world problems.
@@ -20,12 +22,7 @@ and solve real world problems.
 </div>
 
 </div>  
-  </tr>
-  <tr>
-  
 
-  </tr>
-</table>
   
  <div align="center">
 **SCROLL DOWN TO SEE MY PROJECTS CODE AND SCREENSHOTS ** 
