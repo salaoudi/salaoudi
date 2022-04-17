@@ -15,10 +15,10 @@
      
   <h1 align="center">I'm Saleh Alaoudi | iOS Developer</h1>  
        
-   
-Organized, collaborative, and highly skilled iOS developer with 5+ years of  
+ <p align="center">Organized, collaborative, and highly skilled iOS developer with 5+ years of  
 experience. Eager to start innovating new features, delight users,
-and solve real world problems.
+and solve real world problems. </p>
+
          
 
   
