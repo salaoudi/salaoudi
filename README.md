@@ -6,7 +6,7 @@
 
 <table style="width:100%">
   <tr>
-   ### <div align="right">I'm Saleh Alaoudi | iOS Developer </div>  
+  <div align="right">I'm Saleh Alaoudi | iOS Developer </div>  
     <div align="left">
        <div align="center">  Organized, collaborative, and highly skilled iOS developer with 5+ years of  
 experience. Eager to start innovating new features, delight users,
