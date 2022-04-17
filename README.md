@@ -22,8 +22,8 @@ and solve real world problems.
          
 
   
+<h2>**SCROLL DOWN TO SEE MY PROJECTS CODE AND SCREENSHOTS ** </h2>  
 
-**SCROLL DOWN TO SEE MY PROJECTS CODE AND SCREENSHOTS ** 
 
 
 
