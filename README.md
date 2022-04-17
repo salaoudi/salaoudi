@@ -1,7 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" /> 
-</div>  
-  
+
 
 
   
@@ -9,8 +6,8 @@
 
 <table style="width:100%">
   <tr>
-   ### <div align="center">I'm Saleh Alaoudi | iOS Developer </div>  
-    <div align="center">
+   ### <div align="right">I'm Saleh Alaoudi | iOS Developer </div>  
+    <div align="left">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" /> 
 </div>  
   </tr>
