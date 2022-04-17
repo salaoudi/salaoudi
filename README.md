@@ -6,7 +6,7 @@
 
 <table style="width:100%">
   <tr>
-    <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 20%" /> 
+    <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" /> 
   <div align="right">I'm Saleh Alaoudi | iOS Developer </div>  
     <div align="left">
       <tr>
