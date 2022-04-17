@@ -6,8 +6,11 @@
 
 <table style="width:100%">
   <tr>
-    <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" /> 
-  <div align="center">I'm Saleh Alaoudi | iOS Developer </div>  
+     <divalign="center">  
+       <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" /> 
+       <div>
+    
+  <div align="center">I'm Saleh Alaoudi | iOS Developer  <div
     <div align="left">
       <tr>
        <div align="center">  Organized, collaborative, and highly skilled iOS developer with 5+ years of  
