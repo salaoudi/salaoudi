@@ -12,7 +12,7 @@
 experience. Eager to start innovating new features, delight users,
 and solve real world problems.
 </div>
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" /> 
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 20%" /> 
 </div>  
   </tr>
   <tr>
