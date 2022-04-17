@@ -8,9 +8,11 @@
   <tr>
   <div align="right">I'm Saleh Alaoudi | iOS Developer </div>  
     <div align="left">
+      <tr>
        <div align="center">  Organized, collaborative, and highly skilled iOS developer with 5+ years of  
 experience. Eager to start innovating new features, delight users,
 and solve real world problems.
+         </tr>
 </div>
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 20%" /> 
 </div>  
